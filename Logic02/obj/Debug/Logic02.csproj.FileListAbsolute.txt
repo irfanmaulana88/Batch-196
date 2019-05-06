@@ -1,0 +1,6 @@
+D:\Bootcamp-196\Hari01\Logic02\bin\Debug\Logic02.exe.config
+D:\Bootcamp-196\Hari01\Logic02\bin\Debug\Logic02.exe
+D:\Bootcamp-196\Hari01\Logic02\bin\Debug\Logic02.pdb
+D:\Bootcamp-196\Hari01\Logic02\obj\Debug\Logic02.csprojResolveAssemblyReference.cache
+D:\Bootcamp-196\Hari01\Logic02\obj\Debug\Logic02.exe
+D:\Bootcamp-196\Hari01\Logic02\obj\Debug\Logic02.pdb

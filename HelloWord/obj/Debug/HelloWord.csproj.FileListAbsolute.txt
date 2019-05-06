@@ -1,0 +1,9 @@
+D:\Bootcamp-196\Hari01\Hari01\HelloWord\bin\Debug\HelloWord.exe.config
+D:\Bootcamp-196\Hari01\Hari01\HelloWord\bin\Debug\HelloWord.exe
+D:\Bootcamp-196\Hari01\Hari01\HelloWord\bin\Debug\HelloWord.pdb
+D:\Bootcamp-196\Hari01\Hari01\HelloWord\obj\Debug\HelloWord.csprojResolveAssemblyReference.cache
+D:\Bootcamp-196\Hari01\Hari01\HelloWord\obj\Debug\HelloWord.exe
+D:\Bootcamp-196\Hari01\Hari01\HelloWord\obj\Debug\HelloWord.pdb
+D:\Bootcamp-196\Hari01\HelloWord\bin\Debug\HelloWord.exe.config
+D:\Bootcamp-196\Hari01\HelloWord\obj\Debug\HelloWord.exe
+D:\Bootcamp-196\Hari01\HelloWord\obj\Debug\HelloWord.pdb
